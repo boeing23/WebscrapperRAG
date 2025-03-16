@@ -6,8 +6,8 @@ This project processes PDF documents using LangChain and Nomic embeddings. It lo
 
 ### 1. Clone the Repository
 
-git clone https://github.com/your-username/your-repo-name.git
-cd your-repo-name
+git clone: (https://github.com/boeing23/WebscrapperRAG)
+cd WebscrapperRAG
 
 2. Install Dependencies
 Install the required Python packages:
